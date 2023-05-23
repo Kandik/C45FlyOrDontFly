@@ -6,6 +6,6 @@ Assignment for subject Machine Learning at Technical University of Kosice
 
 Rated 40/40
 
-The dataests are not included, presentation is on demand (stefankando117@gmail.com)
+The datasets are not included, presentation is on demand (stefankando117@gmail.com)
 
 The documentation is in Slovak
